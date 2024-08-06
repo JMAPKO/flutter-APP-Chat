@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9cd0c51e-e688-4be4-8043-3baae5be0812)# APP - CHAT
+# APP - CHAT
 El proyecto se realizo con flutter, se busca lograr una app que permita comunicacion en tiempo real con distintos dispositivos
 Partira de la creacion de un usuario con su respectiva contraseña, para el cual contaremos con un Login
 ![image](https://github.com/user-attachments/assets/530393c4-06ac-4815-8341-71379de4505b)
