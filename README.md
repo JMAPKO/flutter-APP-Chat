@@ -1,16 +1,8 @@
-# real_chat_proyecto_2
+![image](https://github.com/user-attachments/assets/9cd0c51e-e688-4be4-8043-3baae5be0812)# APP - CHAT
+El proyecto se realizo con flutter, se busca lograr una app que permita comunicacion en tiempo real con distintos dispositivos
+Partira de la creacion de un usuario con su respectiva contraseña, para el cual contaremos con un Login
+![image](https://github.com/user-attachments/assets/530393c4-06ac-4815-8341-71379de4505b)
 
-A new Flutter project.
+De no tener usuario, contaremos tambien con un registro
+![image](https://github.com/user-attachments/assets/34bd409b-c68c-470f-aa9b-9626fd62369e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
